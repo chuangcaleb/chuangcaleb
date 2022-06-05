@@ -2,7 +2,7 @@
 
 ## 🤓 About Caleb (me)
 
-- 🎓 I've just completed my **Bsc Computer Science w/ AI** from the University of Nottingham
+- 🎓 I've just completed my **BSc Computer Science w/ AI** from the University of Nottingham
 - 🎭 I love storywriting, I run a [story blog](https://chuangcaleb.github.io/wtsa)
 - 🌱 I’m interested in NLP, Game AI Agents & Machine Learning
 - 🟪 I optimize my [Obsidian](https://obsidian.md) workflow for notetaking, journalling, blogging — everything
@@ -15,13 +15,13 @@
 
 Languages:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp; ~
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp; *
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Haskell](https://img.shields.io/badge/-Haskell-05122A?style=flat&logo=Haskell&logoColor=5D4F85)&nbsp;
 \
 Framework:
 ![Jekyll](https://img.shields.io/badge/-Jekyll-05122A?style=flat&logo=jekyll&logoColor=CC0000)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp; ~
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;*
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
 \
 Database:
