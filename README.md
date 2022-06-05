@@ -48,5 +48,5 @@ Soft:
  <a href="https://linkedin.com/in/chuangcaleb"><img src="https://img.shields.io/badge/-Chuang%20Caleb-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
  <a href="mailto:balechuang@gmail.com"><img src="https://img.shields.io/badge/-balechuang@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
  <a href="https://instagram.com/calebchuangnotchong"><img src="https://img.shields.io/badge/-@calebchuangnotchong-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
- <a href="https://chuangcaleb.github.io/wtsa"><img src="https://img.shields.io/badge/-Storywriting Blog-000000?style=flat&logo=Jekyll&logoColor=white"/></a>
+ <a href="https://chuangcaleb.github.io/wtsa"><img src="https://img.shields.io/badge/-Storywriting Blog-000000?style=flat&logo=Jekyll&logoColor=red"/></a>
 </div>
