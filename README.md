@@ -1,4 +1,4 @@
-# Chuang Caleb's GitHub Profile
+<p align="center"><b>storyteller · troubleshooter · optimizer</b></p>
 
 ## 🤓 About Caleb (me)
 
@@ -9,7 +9,9 @@
 - 🎮 I like modding and designing [games](https://www.planetminecraft.com/member/calebchan/)
 - 🎵 I'm also into music: I main 🎸 guitar and I'm learning 🎹 keyboard
 
-## 🗣 Tech Stack
+ <img height="150em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chuangcaleb&layout=compact&hide=HTML&theme=algolia"/>
+
+## 🛠 Tech Stack
 
 Languages:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -40,12 +42,6 @@ Soft:
 ![Obsidian](https://img.shields.io/badge/-Obsidian-05122A?style=flat&logo=Obsidian&logoColor=483699)&nbsp;
 ![GIMP](https://img.shields.io/badge/-GIMP-05122A?style=flat&logo=GIMP&logoColor=5C5543)&nbsp;
 ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
-
-<div align="right">
- <a href="https://github.com/AVS1508">
- <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chuangcaleb&layout=compact&hide=HTML&theme=algolia"/>
- </a>
-</div>
 
 <div align="center">
  <h2>🤝 Get to know me</h2>
