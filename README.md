@@ -27,7 +27,7 @@
 ![Jekyll](https://img.shields.io/badge/-Jekyll-05122A?style=flat&logo=jekyll&logoColor=CC0000)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;*
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
-<img height="150em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chuangcaleb&layout=compact&hide=HTML&theme=dark"/>\
+\
 ![Databases](https://img.shields.io/badge/-Databases:-yellow?style=plastic)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-05122A?style=flat&logo=phpmyadmin&logoColor=777BB4)&nbsp;
@@ -49,10 +49,13 @@
 ![GIMP](https://img.shields.io/badge/-GIMP-05122A?style=flat&logo=GIMP&logoColor=5C5543)&nbsp;
 ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
 
+<!-- <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chuangcaleb&layout=compact&hide=HTML&theme=dark"/> -->
+
 <div align="center">
- <h2>🤝 Get to know me</h2>
- <a href="https://linkedin.com/in/chuangcaleb"><img src="https://img.shields.io/badge/-chuangcaleb-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
- <a href="mailto:balechuang@gmail.com"><img src="https://img.shields.io/badge/-balechuang@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
- <a href="https://instagram.com/calebchuangnotchong"><img src="https://img.shields.io/badge/-@calebchuangnotchong-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+ <hr>
+ <br><h2>🤝 Get to know me</h2><br>
+ <a href="https://linkedin.com/in/chuangcaleb"><img src="https://img.shields.io/badge/-chuangcaleb-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;
+ <a href="mailto:balechuang@gmail.com"><img src="https://img.shields.io/badge/-balechuang@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp;
+ <a href="https://instagram.com/calebchuangnotchong"><img src="https://img.shields.io/badge/-@calebchuangnotchong-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>&nbsp;
  <a href="https://chuangcaleb.github.io/wtsa"><img src="https://img.shields.io/badge/-Storywriting Blog-000000?style=flat&logo=Jekyll&logoColor=red"/></a>
 </div>
