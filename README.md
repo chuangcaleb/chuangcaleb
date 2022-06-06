@@ -2,12 +2,16 @@ v<p align="center"><b>storyteller · troubleshooter · optimizer</b></p>
 
 ## 🤓 About Caleb (me)
 
-- 🎓 I've just completed my **BSc Computer Science w/ AI** from the University of Nottingham
-- 🎭 I love storywriting, I run a [story blog](https://chuangcaleb.github.io/wtsa)
-- 🌱 I’m interested in NLP, Game AI Agents & Machine Learning
-- 🟪 I optimize my [Obsidian](https://obsidian.md) workflow for notetaking, journalling, blogging — everything
-- 🎮 I like [modding and designing](https://www.planetminecraft.com/member/calebchan/) games
-- 🎵 I'm also into music: I main 🎸 guitar and I'm learning 🎹 keyboard
+ 🎓 I've just completed my **BSc Computer Science w/ Artificial Intelligence** from the University of Nottingham
+
+ 🎭 I love storywriting, I run a [story blog](https://chuangcaleb.github.io/wtsa)
+🌱 I’m interested in NLP, Game AI Agents & Machine Learning
+
+🟪 I optimize my [Obsidian](https://obsidian.md) workflow for notetaking, journalling, blogging — everything
+
+🎮 I like [modding and designing](https://www.planetminecraft.com/member/calebchan/) games
+
+🎵 I'm also into music: I main 🎸 guitar and I'm learning 🎹 keyboard
 
 ## 🛠 Tech Stack
 
