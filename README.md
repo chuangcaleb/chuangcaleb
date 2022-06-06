@@ -1,4 +1,4 @@
-<p style="font-size:20px" align="center"><b>storyteller · troubleshooter · optimizer</b></p>
+<h1 align="center"><b>storyteller · troubleshooter · optimizer</b></h1>
 
 ## 🤓 About Caleb (me)
 
