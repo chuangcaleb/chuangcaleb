@@ -28,7 +28,7 @@
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;*
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
 \
-![Databases](https://img.shields.io/badge/-Databases:-yellow?style=plastic)&nbsp;
+![Databases](https://img.shields.io/badge/-Databases:-yellow?style=plastic)&nbsp;*
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-05122A?style=flat&logo=phpmyadmin&logoColor=777BB4)&nbsp;
 \
