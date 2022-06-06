@@ -2,16 +2,17 @@
 
 ## 🤓 About Caleb (me)
 
- 🎓 &nbsp;I've just completed my **BSc (Hons) Computer Science w/ Artificial Intelligence** from the University of Nottingham
+ 🎓 &nbsp; I've just completed my **BSc (Hons) Computer Science w/ Artificial Intelligence** from the University of Nottingham
 
- 🎭 &nbsp;I love storywriting, I run a [story blog](https://chuangcaleb.github.io/wtsa)
-🌱 I’m interested in NLP, Game AI Agents & Machine Learning
+ 🎭 &nbsp; I love storywriting, I run a [story blog](https://chuangcaleb.github.io/wtsa)
 
-🟪 &nbsp;I optimize my [Obsidian](https://obsidian.md) workflow for notetaking, journalling, blogging — everything
+🌱 &nbsp; I’m interested in NLP, Game AI Agents & Machine Learning
 
-🎮 &nbsp;I like [modding and designing](https://www.planetminecraft.com/member/calebchan/) games
+🟪 &nbsp; I optimize my [Obsidian](https://obsidian.md) workflow for notetaking, journalling, blogging — everything
 
-🎵 &nbsp;I'm also into music: I main 🎸 guitar and I'm learning 🎹 keyboard
+🎮 &nbsp; I like [modding and designing](https://www.planetminecraft.com/member/calebchan/) games
+
+🎵 &nbsp; I'm also into music: I main 🎸 guitar and I'm learning 🎹 keyboard
 
 ## 🛠 Tech Stack
 
