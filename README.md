@@ -18,29 +18,29 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Haskell](https://img.shields.io/badge/-Haskell-05122A?style=flat&logo=Haskell&logoColor=5D4F85)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=0175C2)&nbsp;
-<img height="150em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chuangcaleb&layout=compact&hide=HTML&theme=algolia"/>\
+\
 ![Frameworks](https://img.shields.io/badge/-Frameworks:-orange?style=plastic)&nbsp;
 ![Jekyll](https://img.shields.io/badge/-Jekyll-05122A?style=flat&logo=jekyll&logoColor=CC0000)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;*
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
-
+<img height="150em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chuangcaleb&layout=compact&hide=HTML&theme=algolia"/>\
 ![Databases](https://img.shields.io/badge/-Databases:-yellow?style=plastic)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-05122A?style=flat&logo=phpmyadmin&logoColor=777BB4)&nbsp;
-
+\
 ![Web](https://img.shields.io/badge/-Web:-green?style=plastic)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass&logoColor=CC6699)&nbsp;
-
-![Web](https://img.shields.io/badge/-Dev:-blue?style=plastic)&nbsp;
+\
+![Dev](https://img.shields.io/badge/-Dev:-blue?style=plastic)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-
+\
 ![Meta](https://img.shields.io/badge/-Meta:-indigo?style=plastic)&nbsp;
 ![Obsidian](https://img.shields.io/badge/-Obsidian-05122A?style=flat&logo=Obsidian&logoColor=483699)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown&logoColor=ffffff)
-
+\
 ![Soft](https://img.shields.io/badge/-Soft:-purple?style=plastic)&nbsp;
 ![GIMP](https://img.shields.io/badge/-GIMP-05122A?style=flat&logo=GIMP&logoColor=5C5543)&nbsp;
 ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
