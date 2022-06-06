@@ -11,8 +11,6 @@
 
 ## 🛠 Tech Stack
 
-<img height="150em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chuangcaleb&layout=compact&hide=HTML&theme=algolia"/><br>
-
 ![Languages](https://img.shields.io/badge/-Languages:-red?style=plastic)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![mcfunction](https://img.shields.io/badge/-mcfunction-05122A?style=flat&logo=Minecraft&logoColor=62B47A)&nbsp;
@@ -25,7 +23,9 @@
 ![Jekyll](https://img.shields.io/badge/-Jekyll-05122A?style=flat&logo=jekyll&logoColor=CC0000)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;*
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
-\
+
+<img height="150em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chuangcaleb&layout=compact&hide=HTML&theme=algolia"/>
+
 ![Databases](https://img.shields.io/badge/-Databases:-yellow?style=plastic)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-05122A?style=flat&logo=phpmyadmin&logoColor=777BB4)&nbsp;
