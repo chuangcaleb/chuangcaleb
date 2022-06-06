@@ -2,7 +2,7 @@
 
 ## 🤓 About Caleb (me)
 
- 🎓 &nbsp;I've just completed my **BSc Computer Science w/ Artificial Intelligence** from the University of Nottingham
+ 🎓 &nbsp;I've just completed my **BSc (Hons) Computer Science w/ Artificial Intelligence** from the University of Nottingham
 
  🎭 &nbsp;I love storywriting, I run a [story blog](https://chuangcaleb.github.io/wtsa)
 🌱 I’m interested in NLP, Game AI Agents & Machine Learning
