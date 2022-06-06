@@ -15,6 +15,7 @@
 
 Languages:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![mcfunction](https://img.shields.io/badge/-mcfunction-05122A?style=flat&logo=Minecraft&logoColor=62B47A)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp; *
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Haskell](https://img.shields.io/badge/-Haskell-05122A?style=flat&logo=Haskell&logoColor=5D4F85)&nbsp;
