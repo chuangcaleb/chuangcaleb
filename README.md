@@ -46,7 +46,7 @@
 ![Obsidian](https://img.shields.io/badge/-Obsidian-05122A?style=flat&logo=Obsidian&logoColor=483699)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown&logoColor=ffffff)
 \
-![Soft](https://img.shields.io/badge/-Soft:-purple?style=plastic)&nbsp;
+![Misc](https://img.shields.io/badge/-Misc:-purple?style=plastic)&nbsp;
 ![GIMP](https://img.shields.io/badge/-GIMP-05122A?style=flat&logo=GIMP&logoColor=5C5543)&nbsp;
 ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
 
