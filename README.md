@@ -10,7 +10,7 @@
 
 🟪 &nbsp; I optimize my [Obsidian](https://obsidian.md) workflow for notetaking, journalling, blogging — everything
 
-🎮 &nbsp; I like modding and designing [data packs for Minecraft]((https://www.planetminecraft.com/member/calebchan/))
+🎮 &nbsp; I like modding and designing [data packs for Minecraft](https://www.planetminecraft.com/member/calebchan/)
 
 🎵 &nbsp; I'm also into music: I main 🎸 guitar and I'm learning 🎹 keyboard
 
