@@ -12,7 +12,7 @@
 
 🎮 &nbsp; I like modding and designing [data packs for Minecraft](https://www.planetminecraft.com/member/calebchan/)
 
-🎵 &nbsp; I'm also into music: I main 🎸 guitar and I'm learning 🎹 keyboard
+🎵 &nbsp; I always need my 🎸 guitar and I'm learning 🎹 keyboard!
 
 ## 🛠 Tech Stack
 
