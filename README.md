@@ -2,7 +2,7 @@
 
 ## 🤓 About Caleb (me)
 
- 🧳 &nbsp; I am currently working as a **Front-End Software Engineer** at [airasia SuperApp](https://www.airasia.com/aa/appdownload/)
+ 🧳 &nbsp; I am currently working as a **Front-End Software Engineer** at [airasia Super App](https://www.airasia.com/aa/appdownload/)
 
  🎓 &nbsp; I graduted with a **BSc (Hons) Computer Science w/ Artificial Intelligence** from the [University of Nottingham](https://www.nottingham.ac.uk)
 
