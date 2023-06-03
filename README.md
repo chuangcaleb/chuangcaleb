@@ -3,13 +3,13 @@
 
 ## 🤓 About Caleb (me)
 
- 🧳 &nbsp; I am currently working as a **Front-End Software Engineer** at [airasia Super App](https://www.airasia.com/aa/appdownload/)
+ 🧳 &nbsp; I am currently working as a **Front-End Software Engineer** at [airasia Super App](https://www.airasia.com/aa/appdownload/) since Oct 2022
 
- 🎓 &nbsp; I graduted with a **BSc (Hons) Computer Science w/ Artificial Intelligence** from the [University of Nottingham](https://www.nottingham.ac.uk)
+ 🎓 &nbsp; I graduted with a **BSc (Hons) Computer Science w/ Artificial Intelligence** from the [University of Nottingham](https://www.nottingham.ac.uk) on Aug 2022
 
  🎭 &nbsp; I love **storywriting**, I run a [story blog](https://chuangcaleb.github.io/wtsa)
 
-🌱 &nbsp; I’m interested in **NLP, Game AI Agents & Machine Learning**
+🌱 &nbsp; I’m interested in **Web Development, NLP & Game AI Agents**
 
 🟪 &nbsp; I optimize my [Obsidian](https://obsidian.md) workflow for notetaking, journalling, blogging — everything
 
