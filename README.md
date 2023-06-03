@@ -1,4 +1,5 @@
-<p align="center"><b>storyteller · troubleshooter · optimizer</b></p>
+### Software Dev specializing in Front-End Web.
+`Sometimes I write code; always I craft experiences`
 
 ## 🤓 About Caleb (me)
 
