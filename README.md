@@ -7,7 +7,7 @@
 
  🎓 &nbsp; I graduted with a **BSc (Hons) Computer Science w/ Artificial Intelligence** from the [University of Nottingham](https://www.nottingham.ac.uk) on Aug 2022
 
- 🎭 &nbsp; I love **storywriting**, I run a [story blog](https://chuangcaleb.github.io/wtsa)
+ 🎭 &nbsp; I love **storywriting**, I write analyses and rewrites on my [story blog](https://chuangcaleb.github.io/wtsa)
 
 🌱 &nbsp; I’m interested in **Web Development, NLP & Game AI Agents**
 
