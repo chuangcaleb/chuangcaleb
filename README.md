@@ -64,10 +64,9 @@
 
 <!-- <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chuangcaleb&layout=compact&hide=HTML&theme=dark"/> -->
 
-<div align="center">
+
  <h2>🤝 Get to know me</h2>
- <a href="https://chuangcaleb.vercel.app"><img src="https://img.shields.io/badge/-Portfolio Site-2b2f40?style=flat&logo=Astro&logoColor=FF5D01"/></a>&nbsp;
+ <a href="https://chuangcaleb.com"><img src="https://img.shields.io/badge/-chuangcaleb.com-2b2f40?style=flat&logo=Astro&logoColor=FF5D01"/></a>&nbsp;
  <a href="https://linkedin.com/in/chuangcaleb"><img src="https://img.shields.io/badge/-chuangcaleb-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;
  <a href="mailto:balechuang@gmail.com"><img src="https://img.shields.io/badge/-balechuang@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp;
  <a href="https://chuangcaleb.github.io/wtsa"><img src="https://img.shields.io/badge/-Storywriting Blog-000000?style=flat&logo=Jekyll&logoColor=red"/></a>
-</div>
