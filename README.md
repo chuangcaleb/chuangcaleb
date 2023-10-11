@@ -1,5 +1,5 @@
 ### Software Dev specializing in Front-End Web.
-`Sometimes I write code; always I craft experiences.`
+`Sometimes writing code; always crafting experiences.`
 
 ## 🤓 About Caleb (me)
 
