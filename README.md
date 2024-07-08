@@ -1,21 +1,13 @@
-### Software Dev specializing in Front-End Web.
-`Sometimes writing code; always crafting experiences.`
+## chuangcaleb
+### software dev with a different story.
 
-## 🤓 About Caleb (me)
+💼 _Professionally_ I am currently a **Software Engineer** at **[Airasia MOVE](https://www.airasia.com/aa/appdownload/)** @ *[LinkedIn](https://www.linkedin.com/company/airasia-super-app/mycompany/)*. I work on **UI/UX & Network Logic** for our *flights booking web interfaces* at [airasia.com](https://airasia.com) — visual and technical design is fun!
 
- 🧳 &nbsp; I am currently working as a **Front-End Software Engineer** at [airasia Super App](https://www.airasia.com/aa/appdownload/) since Oct 2022
+📖 _Growing up_, I found aptitude in Redstone and [Game Dev/Design](https://www.planetminecraft.com/member/calebchan/), where I first started coding. Through a [BSc Computer Science w AI](https://www.nottingham.ac.uk/), I’ve found **Software Dev** (notably **Full-Stack Web**) as an accessible medium to create experiences.
 
- 🎓 &nbsp; I graduted with a **BSc (Hons) Computer Science w/ Artificial Intelligence** from the [University of Nottingham](https://www.nottingham.ac.uk) on Aug 2022
+🔥 _My passion_ is in **Storytelling & Narratives**: *“finding universal truths of human experience, and translating them into cohesive drama”*<sup><a href="https://www.helpingwritersbecomeauthors.com/a-writer-or-a-storyteller">1</a></sup>. I express through **music, theatre, film, storyboarding** — even tech. I have a lot to say about *story*, if you’d like to [hear from me](/garden)!
 
- 🎭 &nbsp; I love **storywriting**, I write analyses and rewrites on my [story blog](https://chuangcaleb.github.io/wtsa)
-
-🌱 &nbsp; I’m interested in **Web Development, NLP & Game AI Agents**
-
-🟪 &nbsp; I optimize my [Obsidian](https://obsidian.md) workflow for notetaking, journalling, blogging — everything
-
-🎮 &nbsp; I like modding and designing [data packs for Minecraft](https://www.planetminecraft.com/member/calebchan/)
-
-🎵 &nbsp; I always need my 🎸 guitar, and I'm learning 🎹 keyboard!
+🪴 I also upkeep a **Digital Garden** with *[Obsidian](https://obsidian.md)* — I journal daily & write down everything I learn. I publicly expose a subset of *my notes* at [chuangcaleb.com/garden](https://chuangcaleb.com/garden) and post *life updates* at [chuangcaleb.com/now](https://chuangcaleb.com/now)!
 
 ## 🛠 Tech Stack
 
@@ -70,3 +62,11 @@
  <a href="https://linkedin.com/in/chuangcaleb"><img src="https://img.shields.io/badge/-chuangcaleb-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;
  <a href="mailto:ahoy@chuangcaleb.com"><img src="https://img.shields.io/badge/-ahoy@chuangcaleb.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp;
  <a href="https://chuangcaleb.github.io/wtsa"><img src="https://img.shields.io/badge/-Storywriting Blog-000000?style=flat&logo=Jekyll&logoColor=red"/></a>
+
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/denvercoder1/github-readme-streak-stats -->
+![chuangcaleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuangcaleb&show_icons=true&theme=transparent&hide_title=true&hide_rank=true&border_color=555555&text_color=999999&icon_color=249A32) ‎‎ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chuangcaleb&theme=whatsapp-dark&date_format=j%20M%5B%20Y%5D&card_height=150" alt="GitHub Streak" /></a>
+
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+![chuangcaleb's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chuangcaleb&theme=github-compact)
