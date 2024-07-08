@@ -1,4 +1,3 @@
-## chuangcaleb
 ### software dev with a different story.
 
 💼 _Professionally_ I am currently a **Software Engineer** at **[Airasia MOVE](https://www.airasia.com/aa/appdownload/)** @ *[LinkedIn](https://www.linkedin.com/company/airasia-super-app/mycompany/)*. I work on **UI/UX & Network Logic** for our *flights booking web interfaces* at [airasia.com](https://airasia.com) — visual and technical design is fun!
@@ -9,7 +8,7 @@
 
 🪴 I also upkeep a **Digital Garden** with *[Obsidian](https://obsidian.md)* — I journal daily & write down everything I learn. I publicly expose a subset of *my notes* at [chuangcaleb.com/garden](https://chuangcaleb.com/garden) and post *life updates* at [chuangcaleb.com/now](https://chuangcaleb.com/now)!
 
-## 🛠 Tech Stack
+<br />
 
 ![Languages](https://img.shields.io/badge/-Languages:-red?style=plastic)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
@@ -22,9 +21,9 @@
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=0175C2)&nbsp;
 \
 ![Frameworks](https://img.shields.io/badge/-Frameworks:-orange?style=plastic)&nbsp;
+![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro&logoColor=FF5D01)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js&logoColor=ffffff)&nbsp;
-![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro&logoColor=FF5D01)&nbsp;
 ![Jekyll](https://img.shields.io/badge/-Jekyll-05122A?style=flat&logo=jekyll&logoColor=CC0000)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp; *
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
@@ -55,18 +54,18 @@
 ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
 
 <!-- <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chuangcaleb&layout=compact&hide=HTML&theme=dark"/> -->
+<br />
 
+<a href="https://chuangcaleb.com"><img src="https://img.shields.io/badge/-chuangcaleb.com-1C1C2A?style=for-the-badge"/></a>&nbsp;
+<a href="https://linkedin.com/in/chuangcaleb"><img src="https://img.shields.io/badge/-chuangcaleb-0077B5?style=for-the-badge&logo=linkedin"/></a>&nbsp;
+<a href="mailto:ahoy@chuangcaleb.com"><img src="https://img.shields.io/badge/-ahoy@chuangcaleb.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://chuangcaleb.com/cv"><img src="https://img.shields.io/badge/-cv%20%2F%20r%C3%A9sum%C3%A9-bbbbbb?style=for-the-badge"/></a>&nbsp;
 
- <h2>🤝 Get to know me</h2>
- <a href="https://chuangcaleb.com"><img src="https://img.shields.io/badge/-chuangcaleb.com-2b2f40?style=flat&logo=Astro&logoColor=FF5D01"/></a>&nbsp;
- <a href="https://linkedin.com/in/chuangcaleb"><img src="https://img.shields.io/badge/-chuangcaleb-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;
- <a href="mailto:ahoy@chuangcaleb.com"><img src="https://img.shields.io/badge/-ahoy@chuangcaleb.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp;
- <a href="https://chuangcaleb.github.io/wtsa"><img src="https://img.shields.io/badge/-Storywriting Blog-000000?style=flat&logo=Jekyll&logoColor=red"/></a>
-
+<br />
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
-![chuangcaleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuangcaleb&show_icons=true&theme=transparent&hide_title=true&hide_rank=true&border_color=555555&text_color=999999&icon_color=249A32) ‎‎ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chuangcaleb&theme=whatsapp-dark&date_format=j%20M%5B%20Y%5D&card_height=150" alt="GitHub Streak" /></a>
-
+![chuangcaleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuangcaleb&show_icons=true&theme=transparent&hide_title=true&hide_rank=true&border_color=555555&text_color=999999&icon_color=249A32) ‎‎ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chuangcaleb&theme=whatsapp-dark&date_format=j%20M%5B%20Y%5D&card_height=150&background=0C0E12" alt="GitHub Streak" /></a> 
+<!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 ![chuangcaleb's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chuangcaleb&theme=github-compact)
