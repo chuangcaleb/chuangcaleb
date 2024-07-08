@@ -4,7 +4,7 @@
 
 📖 _Growing up_, I found aptitude in Redstone and [Game Dev/Design](https://www.planetminecraft.com/member/calebchan/), where I first started coding. Through a [BSc Computer Science w AI](https://www.nottingham.ac.uk/), I’ve found **Software Dev** (notably **Full-Stack Web**) as an accessible medium to create experiences.
 
-🔥 _My passion_ is in **Storytelling & Narratives**: *“finding universal truths of human experience, and translating them into cohesive drama”*<sup><a href="https://www.helpingwritersbecomeauthors.com/a-writer-or-a-storyteller">1</a></sup>. I express through **music, theatre, film, storyboarding** — even tech. I have a lot to say about *story*, if you’d like to [hear from me](/garden)!
+🔥 _My passion_ is in **Storytelling & Narratives**: *“finding universal truths of human experience, and translating them into cohesive drama”*<sup><a href="https://www.helpingwritersbecomeauthors.com/a-writer-or-a-storyteller">1</a></sup>. I express through **music, theatre, film, storyboarding** — even tech. I have a lot to say about *story*, if you’d like to [hear from me](https://chuangcaleb.com/garden)!
 
 🪴 I also upkeep a **Digital Garden** with *[Obsidian](https://obsidian.md)* — I journal daily & write down everything I learn. I publicly expose a subset of *my notes* at [chuangcaleb.com/garden](https://chuangcaleb.com/garden) and post *life updates* at [chuangcaleb.com/now](https://chuangcaleb.com/now)!
 
