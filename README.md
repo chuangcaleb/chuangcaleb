@@ -66,7 +66,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 ![chuangcaleb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chuangcaleb&show_icons=true&theme=transparent&hide_title=true&hide_rank=true&border_color=555555&text_color=999999&icon_color=249A32) ‎‎ 
-![chuangcaleb's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=chuangcaleb&theme=whatsapp-dark&date_format=j%20M%5B%20Y%5D&card_height=150&background=0C0E12)
+![chuangcaleb's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chuangcaleb&layout=compact&hide=html&theme=transparent&border_color=555555&text_color=999999&title_color=999999)
 <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 ![chuangcaleb's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chuangcaleb&theme=github-compact)
