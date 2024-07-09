@@ -1,6 +1,6 @@
 ### software dev with a different story.
 
-💼 _Professionally_ I am currently a **Software Engineer** at **[Airasia MOVE](https://www.airasia.com/aa/appdownload/)** @ *[LinkedIn](https://www.linkedin.com/company/airasia-super-app/mycompany/)*. I work on **UI/UX & Network Logic** for our *flights booking web interfaces* at [airasia.com](https://airasia.com) — visual and technical design is fun!
+💼 _Professionally_ I am currently a **Software Engineer** at <img src="https://static.airasia.com/design/logos/airasia-move-light.svg" style="height:1rem" /> **[Airasia MOVE](https://www.airasia.com/aa/appdownload/)** @ *[LinkedIn](https://www.linkedin.com/company/airasia-super-app/mycompany/)*. I work on **UI/UX & Network Logic** for our *flights booking web interfaces* at [airasia.com](https://airasia.com) — visual and technical design is fun!
 
 📖 _Growing up_, I found aptitude in Redstone and [Game Dev/Design](https://www.planetminecraft.com/member/calebchan/), where I first started coding. Through a [BSc Computer Science w AI](https://www.nottingham.ac.uk/), I’ve found **Software Dev** (notably **Full-Stack Web**) as an accessible medium to create experiences.
 
