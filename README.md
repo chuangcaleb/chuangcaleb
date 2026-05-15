@@ -60,14 +60,3 @@
 <a href="https://linkedin.com/in/chuangcaleb"><img src="https://img.shields.io/badge/-chuangcaleb-0077B5?style=for-the-badge&logo=linkedin"/></a>&nbsp;
 <a href="mailto:ahoy@chuangcaleb.com"><img src="https://img.shields.io/badge/-ahoy@chuangcaleb.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://chuangcaleb.com/cv"><img src="https://img.shields.io/badge/-cv%20%2F%20r%C3%A9sum%C3%A9-bbbbbb?style=for-the-badge"/></a>&nbsp;
-
-<br />
-
-**Public repo stats:**
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- https://github.com/denvercoder1/github-readme-streak-stats -->
-![chuangcaleb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chuangcaleb&show_icons=true&theme=transparent&hide_title=true&hide_rank=true&border_color=555555&text_color=999999&icon_color=249A32) ‎‎ 
-![chuangcaleb's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chuangcaleb&layout=compact&hide=html&theme=transparent&border_color=555555&text_color=999999&title_color=999999)
-<!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph
-<!-- ![chuangcaleb's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chuangcaleb&theme=github-compact) -->
