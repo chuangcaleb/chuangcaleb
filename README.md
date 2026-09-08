@@ -6,10 +6,10 @@
 
 🔥 _My passion_ is in **Storytelling & Narratives**: *“finding universal truths of human experience, and translating them into cohesive drama”*<sup><a href="https://www.helpingwritersbecomeauthors.com/a-writer-or-a-storyteller">1</a></sup>. I express through **music, theatre, film, storyboarding** — even tech. I have a lot to say about *story*, if you’d like to [hear from me](https://chuangcaleb.com/garden)!
 
-🪴 I also upkeep a **Digital Garden** with *[Obsidian](https://obsidian.md)* — I journal daily & write down everything I learn. I publicly expose a subset of *my notes* at [chuangcaleb.com/garden](https://chuangcaleb.com/garden)!
+🪴 I also upkeep a **Digital Garden** with *[Obsidian](https://obsidian.md)* — I journal daily & write down everything I learn. I publicly expose a subset of *my notes* at [chuangcaleb.com/garden](https://chuangcaleb.com/garden)... you'll get a pretty good bearing of who I am.
 
 
-#### My Favourite Tech Stack
+#### My favourite tech stack
 
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
